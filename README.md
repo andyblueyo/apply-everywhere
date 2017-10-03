@@ -20,5 +20,10 @@
 - [ ] [Climate Corporation Software Engineer](http://jobs.jobvite.com/the-climate-corporation/job/oezY5fwA/apply)
 - [ ] [Splunk Software Engineer Intern](http://jobs.jobvite.com/careers/splunk/job/oZlY5fw7?__jvst=Job%20Board&__jvsd=Indeed)
 - [ ] [Google Software Engineering Intern](https://careers.google.com/jobs?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract#!t=jo&jid=/google/software-engineering-intern-bs-ms-summer-19510-jamboree-rd-irvine-ca-usa-2812490250)
-
+- [ ] [AirBnb Software Internship](https://www.airbnb.com/careers/apply2/763055?gh_src=)
+- [ ] [Uber Software Engineer - Internship/Co-Op](https://www.uber.com/careers/list/33596/)
+- [ ] [6Sense Software Engineer Intern](https://6sense.com/about-us/careers-and-culture/?gh_jid=745348)
+- [ ] [Audience Information Technology Co-Op](http://www.audience.com/eng/Our-company/Careers?p=job%2FoyO35fwe%2Fapply)
 ## Semi-long Software Engineering Internship (5-20 mins)
+
+## Short Full Time Positions (< 5 mins)
