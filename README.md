@@ -24,6 +24,7 @@
 - [ ] [Uber Software Engineer - Internship/Co-Op](https://www.uber.com/careers/list/33596/)
 - [ ] [6Sense Software Engineer Intern](https://6sense.com/about-us/careers-and-culture/?gh_jid=745348)
 - [ ] [Audience Information Technology Co-Op](http://www.audience.com/eng/Our-company/Careers?p=job%2FoyO35fwe%2Fapply)
+- [ ] [Redfin Product Manager Intern - Seattle & San Francisco](http://jobs.jobvite.com/careers/redfin/job/oi0S5fwZ?__jvst=JobBoard&__jvsd)
 ## Semi-long Software Engineering Internship (5-20 mins)
 
 ## Short Full Time Positions (< 5 mins)
