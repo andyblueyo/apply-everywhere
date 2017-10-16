@@ -29,4 +29,4 @@
 
 ## Semi-long Software Engineering Internship (5-20 mins)
 
-## Short Softwar Full Time Positions (< 5 mins)
+## Short Software Full Time Positions (< 5 mins)
