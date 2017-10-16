@@ -1,5 +1,7 @@
 # Apply Everywhere Challenge
+- This is for Software development roles
 - Fork to complete the list
+- [Keeping updated with changes](https://gist.github.com/CristinaSolana/1885435)
 - Send pull requests to continue the challenge
 
 ## Short Software Engineering Internship, < 5 mins
