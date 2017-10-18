@@ -20,5 +20,5 @@
 - [ ] [Climate Corporation Software Engineer](http://jobs.jobvite.com/the-climate-corporation/job/oezY5fwA/apply)
 - [ ] [Splunk Software Engineer Intern](http://jobs.jobvite.com/careers/splunk/job/oZlY5fw7?__jvst=Job%20Board&__jvsd=Indeed)
 - [ ] [Google Software Engineering Intern](https://careers.google.com/jobs?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract#!t=jo&jid=/google/software-engineering-intern-bs-ms-summer-19510-jamboree-rd-irvine-ca-usa-2812490250)
-
+- [ ] [Quantcast](https://jobs.lever.co/quantcast/e698d9e8-33ae-40e1-ace8-74b6c7d9ab15/apply)
 ## Semi-long Software Engineering Internship (5-20 mins)
