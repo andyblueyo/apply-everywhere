@@ -28,6 +28,7 @@
 - [ ] [Audience Information Technology Co-Op](http://www.audience.com/eng/Our-company/Careers?p=job%2FoyO35fwe%2Fapply)
 - [ ] [Tableau Software Intern](https://tableau.rolepoint.com/?shorturl=jsUzb#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgICQ1-fXrgkM)
 - [ ] [Tableau Software Test Intern](https://tableau.rolepoint.com/?shorturl=iAJUb#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgICQ1-fXrggM)
+- [ ] [Reddit Software Intern](https://boards.greenhouse.io/reddit/jobs/891967#.WeeN_hOPLUI)
 
 ## Semi-long Software Engineering Internship (5-20 mins)
 
