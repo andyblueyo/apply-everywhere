@@ -1,6 +1,7 @@
 # Apply Everywhere Challenge
 - This is the list for Product Manager roles.
 - Fork to complete the list
+- [Keeping updated with changes](https://gist.github.com/CristinaSolana/1885435)
 - Send pull requests to continue the challenge
 
 ## Short Product Manager Intern Engineering Internship, < 5 mins
