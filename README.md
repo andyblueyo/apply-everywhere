@@ -1,35 +1,20 @@
-# Apply Everywhere Challenge
-- This is for Software development roles
-- Fork to complete the list
-- [Keeping updated with changes](https://gist.github.com/CristinaSolana/1885435)
-- Send pull requests to continue the challenge
+# Frequently Asked Questions
 
-## Short Software Engineering Internship, < 5 mins
-- [ ] [Twilio Software Engineering Intern - San Francisco](https://boards.greenhouse.io/twilio/jobs/824151)
-- [ ] [Twilio Software Engineering Intern - Mountain View](https://boards.greenhouse.io/twilio/jobs/824166)
-- [ ] [Thumbtack Software Engineering Intern](https://boards.greenhouse.io/thumbtack/jobs/2570#.VBsunGRdW9M)
-- [ ] [Duolingo Software Engineering Intern](https://jobs.lever.co/duolingo/252144e5-c805-4143-a337-465c3bd5df42)
-- [ ] [Github Software Engineering Intern](https://github.com/blog/2428-summer-internships-at-github-in-san-francisco)
-- [ ] [Yelp Winter Intern](https://jobs.lever.co/yelp/acd14f8c-12ef-44ae-bba0-d9ddaf9a54c8/apply)
-- [ ] [FitBit Software Engineer Intern](https://boards.greenhouse.io/fitbit92/jobs/827711?gh_src=1x0olf1#app)
-- [ ] [Visa Software Engineering Intern](https://jobs.smartrecruiters.com/Visa/743999659220654-intern-undergrad-software-engineering?src=JB-10081)
-- [ ] [Lyft Software Engineer 2018](https://jobs.lever.co/lyft/0a792acb-8db8-47a9-a29a-6017e76a4ed2/apply)
-- [ ] [PubMatic Software Engineering Intern](https://jobs.smartrecruiters.com/PubMatic/743999659922923-software-engineering-intern-data-analytics-part-time-fall-2017-?Board=Indeed)
-- [ ] [CodeFight Software Engineer Summer Intern](https://jobs.lever.co/codefights/65c8a7ef-9ecc-4c46-85dc-d870536fde89/apply)
-- [ ] [Square Software Engineer Intern](https://jobs.smartrecruiters.com/Square/743999659054419-software-engineer-intern)
-- [ ] [Wish Software Engineering Internship](https://jobs.lever.co/wish/9550fb37-e3b7-4bb6-a929-93f7883c081e/apply)
-- [ ] [Sighten Software Engineering Intern](https://jobs.lever.co/sighten/8d62f48e-9dbc-4cd2-92cf-067b10e43443/apply)
-- [ ] [Climate Corporation Software Engineer](http://jobs.jobvite.com/the-climate-corporation/job/oezY5fwA/apply)
-- [ ] [Splunk Software Engineer Intern](http://jobs.jobvite.com/careers/splunk/job/oZlY5fw7?__jvst=Job%20Board&__jvsd=Indeed)
-- [ ] [Google Software Engineering Intern](https://careers.google.com/jobs?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract#!t=jo&jid=/google/software-engineering-intern-bs-ms-summer-19510-jamboree-rd-irvine-ca-usa-2812490250)
-- [ ] [AirBnb Software Internship](https://www.airbnb.com/careers/apply2/763055?gh_src=)
-- [ ] [Uber Software Engineer - Internship/Co-Op](https://www.uber.com/careers/list/33596/)
-- [ ] [6Sense Software Engineer Intern](https://6sense.com/about-us/careers-and-culture/?gh_jid=745348)
-- [ ] [Audience Information Technology Co-Op](http://www.audience.com/eng/Our-company/Careers?p=job%2FoyO35fwe%2Fapply)
-- [ ] [Tableau Software Intern](https://tableau.rolepoint.com/?shorturl=jsUzb#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgICQ1-fXrgkM)
-- [ ] [Tableau Software Test Intern](https://tableau.rolepoint.com/?shorturl=iAJUb#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgICQ1-fXrggM)
-- [ ] [Reddit Software Intern](https://boards.greenhouse.io/reddit/jobs/891967#.WeeN_hOPLUI)
-- [ ] [Quantcast](https://jobs.lever.co/quantcast/e698d9e8-33ae-40e1-ace8-74b6c7d9ab15/apply)
-## Semi-long Software Engineering Internship (5-20 mins)
+## What is "apply everywhere"? What do you mean by challenge?
+Great question! Apply everywhere is a challenge where you try to mazimize your chances of an internship or full time job offer
+by _literally applying everywhere._ The job listings are ones where you can submit an application in less than 5 mins, meaning 
+being able to get the most for the least time. Applying to jobs are hard, but hopefully by applying to more places you can increase
+your chance of landing that sweet summer or fulltime gig. 
 
-## Short Software Full Time Positions (< 5 mins)
+The challenge is to apply everywhere, but the best applicants apply to the roles best fit for them. So, do apply everywhere
+but also make sure it is for a job you want. 
+
+## How are jobs added?
+It's me! When I find jobs that have short, painless applications I'll add them to the challenge. I don't know all the jobs, so if 
+you know of any jobs, please submit a pull request and I'll add that listing in! 
+
+## How is this maintained? 
+I try to update this a couple times a week, but it depends on what job listings I find that week. 
+
+## I got a job through this challenge! Can I tell you about it?
+Omg, yes please!! I'd love to know how this helped you! Please, please send me an [email](mailto:abchen@uw.edu)!
